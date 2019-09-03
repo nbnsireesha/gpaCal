@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Krishna",
+        "math": 100,
+        "history": 50,
+        "science": 70,
+        "english": 75,
+        "gpa": ""
+
+    },
+    {
+        "name": "Ammu",
+        "math": 50,
+        "history": 70,
+        "science": 80,
+        "english": 75,
+        "gpa": ""
+
+    },
+    {
+        "name": "Kumar",
+        "math": 100,
+        "history": 60,
+        "science": 90,
+        "english": 95,
+        "gpa": ""
+
+    },
+    {
+        "name": "bala",
+        "math": 100,
+        "history": 30,
+        "science": 70,
+        "english": 65,
+        "gpa": ""
+
+    }
+]
